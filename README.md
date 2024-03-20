@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veysel Reşit Çaçan</h1>
-<h3 align="center">A passionate software engineer from Turkey</h3>
+<h3 align="center">A passionate software engineering student from Turkey</h3>
+<h4 align="center">Sophomore at Akdeniz University</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillyfeely&label=Profile%20views&color=0e75b6&style=flat" alt="chillyfeely" /> </p>
 

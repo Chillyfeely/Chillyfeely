@@ -26,8 +26,6 @@
 ### My Github Stats 
 - - - -
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chillyfeely&show_icons=true&locale=en&layout=compact" alt="chillyfeely" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chillyfeely&show_icons=true&locale=en" alt="chillyfeely" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chillyfeely&" alt="chillyfeely" /></p>
